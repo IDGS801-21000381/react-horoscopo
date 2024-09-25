@@ -1,0 +1,35 @@
+.fecha-card {
+  text-align: center;
+}
+
+.horoscopo-imagen {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.horoscopo-card {
+  margin-top: 20px;
+  text-align: center;
+  color: white;
+}
+
+.signo-logo {
+  width: 150px;
+  margin-bottom: 15px;
+}
+
+.caballero-img {
+  width: 100%;
+  max-width: 300px;
+  margin-top: 15px;
+}
